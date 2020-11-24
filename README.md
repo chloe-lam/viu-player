@@ -29,7 +29,7 @@
 ## Installation
 
 ```sh
-npm install --save @viu/videojs-viu-tools
+npm install --save viu-player
 ```
 
 ## Usage
